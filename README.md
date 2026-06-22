@@ -75,3 +75,23 @@ Conditional Access was researched during the project. Configuration was unavaila
 - Role-Based Access Control (RBAC)
 - Multi-Factor Authentication (MFA)
 - Cloud Security Fundamentals
+
+## Project Screenshots
+
+### Users
+![Users](screenshots/users.png)
+
+### Groups
+![Groups](screenshots/groups.png)
+
+### Resource Group
+![Resource Group](screenshots/resource-group.png)
+
+### RBAC Assignments
+![RBAC](screenshots/rbac.png)
+
+### MFA Configuration
+![MFA](screenshots/mfa.png)
+
+### Conditional Access Licensing Requirement
+![Conditional Access](screenshots/conditional-access.png)
